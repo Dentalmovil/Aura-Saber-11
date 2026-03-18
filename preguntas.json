@@ -1,0 +1,1442 @@
+[
+  {
+    "area": "Lectura Crítica",
+    "enunciado": "Lea el siguiente fragmento filosófico: 'La existencia precede a la esencia'. Según esta premisa del existencialismo, ¿cuál de las siguientes conclusiones es correcta?",
+    "opciones": [
+      {
+        "texto": "El destino de cada persona está escrito desde su nacimiento por fuerzas superiores.",
+        "correcta": false
+      },
+      {
+        "texto": "El ser humano no tiene una naturaleza predeterminada y se construye a sí mismo a través de sus acciones.",
+        "correcta": true
+      },
+      {
+        "texto": "La esencia de las cosas es inmutable y define su propósito antes de que existan.",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "area": "Matemáticas",
+    "enunciado": "En un estudio epidemiológico, se observa que la incidencia de una enfermedad sigue una distribución normal. Si se duplica el tamaño de la muestra, ¿qué ocurre con el error estándar de la media?",
+    "opciones": [
+      {
+        "texto": "Se reduce en un factor de raíz de dos (√2).",
+        "correcta": true
+      },
+      {
+        "texto": "Permanece igual, ya que la desviación estándar poblacional no cambia.",
+        "correcta": false
+      },
+      {
+        "texto": "Se duplica proporcionalmente al tamaño de la muestra.",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "area": "Sociales y Ciudadanas",
+    "enunciado": "Contexto: Conflicto armado y restitución de tierras. Un líder social que defiende la restitución es asesinado. Desde una perspectiva de pensamiento sistémico, ¿cuál de estas acciones aborda el problema de fondo?",
+    "opciones": [
+      {
+        "texto": "Asignar un esquema de protección individual (guardaespaldas) a todos los líderes restantes.",
+        "correcta": false
+      },
+      {
+        "texto": "Aumentar el pie de fuerza militar y policial en la zona del asesinato.",
+        "correcta": false
+      },
+      {
+        "texto": "Implementar políticas estatales que desmantelen las estructuras económicas que se benefician del despojo.",
+        "correcta": true
+      }
+    ]
+  },
+  {
+    "area": "Ciencias Naturales",
+    "enunciado": "Situación CTS (Ciencia, Tecnología y Sociedad): Una nueva represa hidroeléctrica promete energía limpia, pero altera el ecosistema del río. ¿Cuál es la postura que mejor equilibra el desarrollo y la sostenibilidad?",
+    "opciones": [
+      {
+        "texto": "Priorizar la construcción de la represa para garantizar el suministro energético del país.",
+        "correcta": false
+      },
+      {
+        "texto": "Exigir estudios de impacto ambiental rigurosos y planes de mitigación que garanticen la conectividad ecológica.",
+        "correcta": true
+      },
+      {
+        "texto": "Rechazar el proyecto de plano para preservar el ecosistema en su estado natural a cualquier costo.",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "area": "Inglés",
+    "enunciado": "Context: B1 Level Reading Comprehension. Read the text: 'The city council is debating the implementation of a tourist tax to fund infrastructure improvements.' Based on the text, what is the tax intended for?",
+    "opciones": [
+      {
+        "texto": "To pay for improvements to city infrastructure.",
+        "correcta": true
+      },
+      {
+        "texto": "To increase the profit of local hotels.",
+        "correcta": false
+      },
+      {
+        "texto": "To discourage tourists from visiting the city.",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "area": "Lectura Crítica",
+    "enunciado": "Analice la siguiente caricatura política que muestra a un político con dos caras. Una dice 'Promesas' y la otra 'Realidad'. ¿Cuál es la intención principal del caricaturista?",
+    "opciones": [
+      {
+        "texto": "Elogiar la capacidad de adaptación del político ante las circunstancias.",
+        "correcta": false
+      },
+      {
+        "texto": "Demostrar la complejidad psicológica de los líderes políticos.",
+        "correcta": false
+      },
+      {
+        "texto": "Criticar la hipocresía y la falta de coherencia en el discurso político.",
+        "correcta": true
+      }
+    ]
+  },
+  {
+    "area": "Matemáticas",
+    "enunciado": "Razonamiento Cuantitativo Complejo: Si una empresa aumenta su producción en un 10% trimestralmente de manera compuesta, ¿cuánto tiempo tardará en duplicar su producción inicial?",
+    "opciones": [
+      {
+        "texto": "7 trimestres exactos.",
+        "correcta": false
+      },
+      {
+        "texto": "Más de 7 trimestres.",
+        "correcta": true
+      },
+      {
+        "texto": "Menos de 7 trimestres.",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "area": "Sociales y Ciudadanas",
+    "enunciado": "¿Cómo se aplica el concepto de 'mecanismo de control social' en la Constitución Política de Colombia ante un caso de corrupción de un alto funcionario?",
+    "opciones": [
+      {
+        "texto": "A través de la acción de los entes de control como la Procuraduría y la Fiscalía.",
+        "correcta": true
+      },
+      {
+        "texto": "A través de una columna de opinión en un diario nacional.",
+        "correcta": false
+      },
+      {
+        "texto": "Mediante una marcha pacífica convocada por la sociedad civil.",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "area": "Ciencias Naturales",
+    "enunciado": "Problema CTS: La introducción de cultivos transgénicos puede aumentar la productividad, pero genera preocupación por la biodiversidad. ¿Cuál es el mayor riesgo biológico?",
+    "opciones": [
+      {
+        "texto": "La transferencia horizontal de genes a especies silvestres emparentadas.",
+        "correcta": true
+      },
+      {
+        "texto": "El aumento del uso de pesticidas que contamina las fuentes de agua.",
+        "correcta": false
+      },
+      {
+        "texto": "La disminución del valor nutricional de los alimentos transgénicos.",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "area": "Inglés",
+    "enunciado": "Context: Complex text (B1 Level). In the sentence: 'The intricate plot of the novel kept readers on the edge of their seats until the very last page,' what does the word 'intricate' mean?",
+    "opciones": [
+      {
+        "texto": "Boring and repetitive.",
+        "correcta": false
+      },
+      {
+        "texto": "Simple and predictable.",
+        "correcta": false
+      },
+      {
+        "texto": "Complicated and detailed.",
+        "correcta": true
+      }
+    ]
+  },
+  {
+    "area": "Lectura Crítica",
+    "enunciado": "Lea el siguiente texto literario: 'En el pueblo, el tiempo parecía haberse detenido. Las calles, polvorientas, recordaban un pasado mejor.' ¿Qué técnica narrativa se utiliza para evocar la nostalgia?",
+    "opciones": [
+      {
+        "texto": "La narración en primera persona para crear intimidad con el lector.",
+        "correcta": false
+      },
+      {
+        "texto": "La descripción sensorial y la comparación implícita con el pasado.",
+        "correcta": true
+      },
+      {
+        "texto": "El uso constante de diálogos para dar dinamismo a la escena.",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "area": "Matemáticas",
+    "enunciado": "Estadística y Razonamiento: En un censo, el ingreso promedio es alto, pero la mediana es baja. ¿Cuál es la interpretación más precisa sobre la distribución de la riqueza en ese lugar?",
+    "opciones": [
+      {
+        "texto": "Hay una alta concentración de riqueza en un pequeño porcentaje de la población.",
+        "correcta": true
+      },
+      {
+        "texto": "La mayoría de la población tiene un ingreso cercano al promedio.",
+        "correcta": false
+      },
+      {
+        "texto": "El ingreso está distribuido de manera uniforme entre todos los habitantes.",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "area": "Sociales y Ciudadanas",
+    "enunciado": "Situación de Pensamiento Sistémico: Una ciudad sufre de graves inundaciones debido al cambio climático. ¿Cuál de estas soluciones integra múltiples dimensiones del problema?",
+    "opciones": [
+      {
+        "texto": "Construir muros de contención más altos a lo largo de los ríos principales.",
+        "correcta": false
+      },
+      {
+        "texto": "Implementar un plan maestro que combine infraestructura resiliente, ordenamiento territorial y educación ciudadana.",
+        "correcta": true
+      },
+      {
+        "texto": "Aumentar las multas para las empresas que contaminan el aire con gases de efecto invernadero.",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "area": "Ciencias Naturales",
+    "enunciado": "Física y Sociedad: En una ciudad con alta contaminación por ruido de tráfico, ¿cuál medida de mitigación se basa en un principio físico eficaz?",
+    "opciones": [
+      {
+        "texto": "Reducir la velocidad máxima de los vehículos para disminuir el roce de las llantas.",
+        "correcta": false
+      },
+      {
+        "texto": "Repavimentar las calles con un asfalto especial que sea más silencioso.",
+        "correcta": false
+      },
+      {
+        "texto": "Instalar barreras acústicas que absorban y desvíen las ondas sonoras.",
+        "correcta": true
+      }
+    ]
+  },
+  {
+    "area": "Inglés",
+    "enunciado": "Context: Reading comprehension (B1 Level). Based on the sentence: 'Despite facing numerous obstacles, she remained determined to achieve her goal,' what can be inferred about her character?",
+    "opciones": [
+      {
+        "texto": "She is careless and doesn't plan ahead.",
+        "correcta": false
+      },
+      {
+        "texto": "She is weak and gets discouraged by challenges.",
+        "correcta": false
+      },
+      {
+        "texto": "She is persistent and doesn't give up easily.",
+        "correcta": true
+      }
+    ]
+  },
+  {
+    "area": "Lectura Crítica",
+    "enunciado": "Fragmento filosófico: '¿Es la belleza una cualidad objetiva de las cosas o un sentimiento subjetivo del observador?'. Este dilema aborda la disciplina de la:",
+    "opciones": [
+      {
+        "texto": "Estética.",
+        "correcta": true
+      },
+      {
+        "texto": "Epistemología.",
+        "correcta": false
+      },
+      {
+        "texto": "Ética.",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "area": "Matemáticas",
+    "enunciado": "Álgebra y Razonamiento Cuantitativo: El costo total de producir 'x' unidades de un producto está dado por C(x) = 100x + 5000. Si el precio de venta es de $150 por unidad, ¿cuántas unidades se deben vender para duplicar la inversión inicial de $5000?",
+    "opciones": [
+      {
+        "texto": "300 unidades.",
+        "correcta": false
+      },
+      {
+        "texto": "200 unidades.",
+        "correcta": true
+      },
+      {
+        "texto": "100 unidades.",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "area": "Sociales y Ciudadanas",
+    "enunciado": "¿Cómo interpreta la Constitución Política de 1991 el concepto de 'Estado Social de Derecho' en relación con la protección de las minorías étnicas?",
+    "opciones": [
+      {
+        "texto": "Limitando su autonomía para asegurar la unidad nacional.",
+        "correcta": false
+      },
+      {
+        "texto": "Fomentando su asimilación a la cultura mayoritaria para evitar conflictos sociales.",
+        "correcta": false
+      },
+      {
+        "texto": "Garantizando activamente sus derechos y promoviendo su participación en las decisiones que los afectan.",
+        "correcta": true
+      }
+    ]
+  },
+  {
+    "area": "Ciencias Naturales",
+    "enunciado": "CTS: El uso excesivo de fertilizantes nitrogenados en la agricultura puede provocar la eutrofización de los cuerpos de agua. ¿Cuál es el mecanismo biológico directo?",
+    "opciones": [
+      {
+        "texto": "El aumento de la temperatura del agua que afecta a las especies sensibles.",
+        "correcta": false
+      },
+      {
+        "texto": "La muerte de los peces debido a la toxicidad directa del nitrógeno.",
+        "correcta": false
+      },
+      {
+        "texto": "El crecimiento desmedido de algas que consumen el oxígeno disuelto.",
+        "correcta": true
+      }
+    ]
+  },
+  {
+    "area": "Inglés",
+    "enunciado": "Context: (B1 Level Comprehension). Look at the sign: 'CAUTION: WET FLOOR'. Where would you most likely see this?",
+    "opciones": [
+      {
+        "texto": "At a library entrance on a sunny day.",
+        "correcta": false
+      },
+      {
+        "texto": "In a supermarket aisle after a spill.",
+        "correcta": true
+      },
+      {
+        "texto": "In a park's playground during summer.",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "area": "Lectura Crítica",
+    "enunciado": "En un ensayo filosófico sobre la tecnología, se afirma: 'La herramienta ha dejado de ser una extensión del brazo para convertir al hombre en una extensión del sistema'. ¿Cuál es el supuesto implícito en esta frase?",
+    "opciones": [
+      {
+        "texto": "La superioridad biológica del ser humano sobre la máquina.",
+        "correcta": false
+      },
+      {
+        "texto": "El progreso tecnológico como motor de la libertad individual.",
+        "correcta": false
+      },
+      {
+        "texto": "La pérdida de autonomía humana frente a los procesos automatizados.",
+        "correcta": true
+      }
+    ]
+  },
+  {
+    "area": "Matemáticas",
+    "enunciado": "Geometría y Razonamiento: Se tiene un cilindro y un cono con la misma altura y el mismo radio de base. Si el volumen del cono es de 30 cm³, ¿cuál es el volumen del cilindro?",
+    "opciones": [
+      {
+        "texto": "30 cm³",
+        "correcta": false
+      },
+      {
+        "texto": "60 cm³",
+        "correcta": false
+      },
+      {
+        "texto": "90 cm³",
+        "correcta": true
+      }
+    ]
+  },
+  {
+    "area": "Sociales y Ciudadanas",
+    "enunciado": "Pensamiento Sistémico: En una región fronteriza, el aumento del contrabando afecta la economía legal pero sostiene a muchas familias pobres. ¿Qué enfoque de política pública aborda la complejidad del sistema?",
+    "opciones": [
+      {
+        "texto": "Cerrar la frontera totalmente mediante presencia militar permanente.",
+        "correcta": false
+      },
+      {
+        "texto": "Aumentar drásticamente los impuestos a los productos importados legalmente.",
+        "correcta": false
+      },
+      {
+        "texto": "Crear incentivos para la formalización económica junto con programas de sustitución de ingresos.",
+        "correcta": true
+      }
+    ]
+  },
+  {
+    "area": "Ciencias Naturales",
+    "enunciado": "Biología y CTS: El uso indiscriminado de antibióticos en la ganadería industrial ha acelerado la aparición de bacterias multirresistentes. ¿Cuál es el mecanismo evolutivo detrás de este fenómeno?",
+    "opciones": [
+      {
+        "texto": "Adaptación consciente de las bacterias para sobrevivir al medicamento.",
+        "correcta": false
+      },
+      {
+        "texto": "Selección artificial de variantes genéticas que ya poseían resistencia.",
+        "correcta": true
+      },
+      {
+        "texto": "Generación espontánea de nuevas especies de bacterias en entornos químicos.",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "area": "Inglés",
+    "enunciado": "Reading Comprehension (B1): 'The exponential growth of renewable energy sources suggests a paradigm shift in the global power sector.' What does 'paradigm shift' imply?",
+    "opciones": [
+      {
+        "texto": "A fundamental change in an underlying approach or strategy.",
+        "correcta": true
+      },
+      {
+        "texto": "A temporary increase in the price of traditional electricity.",
+        "correcta": false
+      },
+      {
+        "texto": "A minor adjustment to current environmental regulations.",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "area": "Lectura Crítica",
+    "enunciado": "Texto Discontinuo (Infografía): Una gráfica muestra que a mayor nivel educativo, mayor es la participación electoral. ¿Cuál de estas es una inferencia válida?",
+    "opciones": [
+      {
+        "texto": "Las personas sin estudios tienen prohibido participar en elecciones.",
+        "correcta": false
+      },
+      {
+        "texto": "La educación es la única causa que garantiza que una persona vote.",
+        "correcta": false
+      },
+      {
+        "texto": "Existe una correlación positiva entre la educación formal y el ejercicio del voto.",
+        "correcta": true
+      }
+    ]
+  },
+  {
+    "area": "Matemáticas",
+    "enunciado": "Estadística: En un conjunto de datos donde la varianza es cero, ¿cuál de las siguientes afirmaciones es necesariamente verdadera?",
+    "opciones": [
+      {
+        "texto": "El rango de los datos es igual al tamaño de la muestra.",
+        "correcta": false
+      },
+      {
+        "texto": "La media, la mediana y la moda son iguales a cero.",
+        "correcta": false
+      },
+      {
+        "texto": "Todos los valores del conjunto de datos son idénticos.",
+        "correcta": true
+      }
+    ]
+  },
+  {
+    "area": "Sociales y Ciudadanas",
+    "enunciado": "Constitución Política: ¿En qué caso un ciudadano puede interponer una Acción de Cumplimiento?",
+    "opciones": [
+      {
+        "texto": "Cuando una autoridad se niega a aplicar una ley o un acto administrativo.",
+        "correcta": true
+      },
+      {
+        "texto": "Cuando se busca proteger un derecho fundamental amenazado.",
+        "correcta": false
+      },
+      {
+        "texto": "Para anular un contrato entre dos empresas privadas.",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "area": "Ciencias Naturales",
+    "enunciado": "Física y Sociedad: En el diseño de una casa bioclimática, se utilizan grandes ventanales orientados al sol. ¿Qué fenómeno físico se busca aprovechar principalmente?",
+    "opciones": [
+      {
+        "texto": "Efecto invernadero natural para la transferencia de calor por radiación.",
+        "correcta": true
+      },
+      {
+        "texto": "Conducción térmica a través de materiales opacos.",
+        "correcta": false
+      },
+      {
+        "texto": "Reflexión total interna para iluminar habitaciones oscuras.",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "area": "Inglés",
+    "enunciado": "Complex Grammar (B1): 'Had I known about the deadline, I would have submitted the report on time.' This sentence expresses:",
+    "opciones": [
+      {
+        "texto": "A future plan that depends on a current condition.",
+        "correcta": false
+      },
+      {
+        "texto": "A simple statement of a fact that happened yesterday.",
+        "correcta": false
+      },
+      {
+        "texto": "Regret about a past situation that cannot be changed.",
+        "correcta": true
+      }
+    ]
+  },
+  {
+    "area": "Lectura Crítica",
+    "enunciado": "Analice el argumento: 'Si todos los filósofos son pensadores y Aristóteles es filósofo, entonces Aristóteles es pensador'. Este es un ejemplo de:",
+    "opciones": [
+      {
+        "texto": "Una falacia de generalización apresurada.",
+        "correcta": false
+      },
+      {
+        "texto": "Un silogismo deductivo válido.",
+        "correcta": true
+      },
+      {
+        "texto": "Un razonamiento inductivo basado en la experiencia.",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "area": "Matemáticas",
+    "enunciado": "Álgebra: Una función cuadrática f(x) = ax² + bx + c abre hacia abajo si:",
+    "opciones": [
+      {
+        "texto": "El coeficiente 'a' es menor que cero.",
+        "correcta": true
+      },
+      {
+        "texto": "El discriminante es igual a cero.",
+        "correcta": false
+      },
+      {
+        "texto": "La constante 'c' es un número negativo.",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "area": "Sociales y Ciudadanas",
+    "enunciado": "Historia de Colombia: El periodo conocido como 'La Violencia' (mediados del siglo XX) se caracterizó principalmente por:",
+    "opciones": [
+      {
+        "texto": "La confrontación armada entre simpatizantes de los partidos Liberal y Conservador.",
+        "correcta": true
+      },
+      {
+        "texto": "La guerra de independencia contra la corona española.",
+        "correcta": false
+      },
+      {
+        "texto": "El auge de las exportaciones de café hacia mercados europeos.",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "area": "Ciencias Naturales",
+    "enunciado": "Química y CTS: Los CFC (clorofluorocarbonos) fueron prohibidos porque destruyen la capa de ozono. ¿Cuál es la consecuencia directa de esta destrucción para la salud humana?",
+    "opciones": [
+      {
+        "texto": "Aumento de la incidencia de cáncer de piel por radiación UV.",
+        "correcta": true
+      },
+      {
+        "texto": "Acidificación de las fuentes de agua potable.",
+        "correcta": false
+      },
+      {
+        "texto": "Incremento de las enfermedades respiratorias por smog.",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "area": "Inglés",
+    "enunciado": "Context (Level B1): 'The committee turned down the proposal because it wasn't economically viable.' What does 'turned down' mean?",
+    "opciones": [
+      {
+        "texto": "Rejected.",
+        "correcta": true
+      },
+      {
+        "texto": "Accepted.",
+        "correcta": false
+      },
+      {
+        "texto": "Delayed.",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "area": "Lectura Crítica",
+    "enunciado": "En un texto poético, el uso recurrente de la palabra 'ceniza' para referirse a la vida sugiere un tono:",
+    "opciones": [
+      {
+        "texto": "Optimista y vitalista.",
+        "correcta": false
+      },
+      {
+        "texto": "Satírico y burlón.",
+        "correcta": false
+      },
+      {
+        "texto": "Elegíaco y pesimista.",
+        "correcta": true
+      }
+    ]
+  },
+  {
+    "area": "Matemáticas",
+    "enunciado": "Razonamiento Cuantitativo: Un tanque se llena con dos grifos. El grifo A lo llena en 4 horas y el B en 6 horas. ¿Cuánto tardan ambos en llenar el tanque?",
+    "opciones": [
+      {
+        "texto": "5 horas.",
+        "correcta": false
+      },
+      {
+        "texto": "2.4 horas.",
+        "correcta": true
+      },
+      {
+        "texto": "10 horas.",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "area": "Sociales y Ciudadanas",
+    "enunciado": "Pensamiento Sistémico: La deforestación en el Amazonas reduce la humedad que llega a los Andes, afectando los páramos. Esto demuestra que:",
+    "opciones": [
+      {
+        "texto": "Los ecosistemas están interconectados y un cambio en uno afecta al conjunto.",
+        "correcta": true
+      },
+      {
+        "texto": "La deforestación es un problema exclusivamente local de las selvas.",
+        "correcta": false
+      },
+      {
+        "texto": "El clima de los Andes depende solo de la altitud sobre el nivel del mar.",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "area": "Ciencias Naturales",
+    "enunciado": "Ciencia y Sociedad: Un científico publica resultados falsos para obtener fama. ¿Qué principio de la naturaleza de la ciencia se está vulnerando?",
+    "opciones": [
+      {
+        "texto": "La capacidad de memorizar grandes cantidades de datos teóricos.",
+        "correcta": false
+      },
+      {
+        "texto": "La integridad y la revisión por pares para garantizar la validez.",
+        "correcta": true
+      },
+      {
+        "texto": "El uso de instrumentos de medición de alta tecnología.",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "area": "Inglés",
+    "enunciado": "Sentence Completion: 'If I ___ more time, I would learn how to code in Python.'",
+    "opciones": [
+      {
+        "texto": "have",
+        "correcta": false
+      },
+      {
+        "texto": "will have",
+        "correcta": false
+      },
+      {
+        "texto": "had",
+        "correcta": true
+      }
+    ]
+  },
+  {
+    "area": "Lectura Crítica",
+    "enunciado": "En el mito de la caverna de Platón, las sombras representan el conocimiento sensible. ¿Qué implica que un prisionero logre salir de la caverna?",
+    "opciones": [
+      {
+        "texto": "La preferencia por las ilusiones cómodas frente a la luz cegadora.",
+        "correcta": false
+      },
+      {
+        "texto": "La resignación ante la imposibilidad de conocer la realidad.",
+        "correcta": false
+      },
+      {
+        "texto": "El ascenso hacia el conocimiento racional y la verdad absoluta.",
+        "correcta": true
+      }
+    ]
+  },
+  {
+    "area": "Matemáticas",
+    "enunciado": "Estadística y CTS: En un país, el coeficiente de Gini pasó de 0.45 a 0.52 en una década. ¿Qué impacto socioeconómico describe mejor este cambio estadístico?",
+    "opciones": [
+      {
+        "texto": "Una mejora en la equidad social y acceso a oportunidades.",
+        "correcta": false
+      },
+      {
+        "texto": "Un crecimiento económico que beneficia a todos los estratos por igual.",
+        "correcta": false
+      },
+      {
+        "texto": "Un aumento significativo en la desigualdad de la distribución del ingreso.",
+        "correcta": true
+      }
+    ]
+  },
+  {
+    "area": "Sociales y Ciudadanas",
+    "enunciado": "Pensamiento Sistémico: La construcción de una vía en una reserva forestal genera empleo inmediato, pero destruye cuencas hídricas a largo plazo. Desde la sostenibilidad, esta decisión es:",
+    "opciones": [
+      {
+        "texto": "Neutral, porque el impacto ambiental se compensa con el pago de impuestos.",
+        "correcta": false
+      },
+      {
+        "texto": "Ineficiente, porque sacrifica servicios ecosistémicos vitales por beneficios temporales.",
+        "correcta": true
+      },
+      {
+        "texto": "Correcta, ya que el desarrollo económico siempre debe primar sobre el ambiental.",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "area": "Ciencias Naturales",
+    "enunciado": "Biología y Sociedad: La resistencia de las plagas a los pesticidas químicos es un ejemplo de:",
+    "opciones": [
+      {
+        "texto": "Aprendizaje conductual de las plagas para evitar el veneno.",
+        "correcta": false
+      },
+      {
+        "texto": "Mutación dirigida provocada por el deseo de supervivencia del insecto.",
+        "correcta": false
+      },
+      {
+        "texto": "Evolución por selección natural en un ambiente con presión selectiva.",
+        "correcta": true
+      }
+    ]
+  },
+  {
+    "area": "Inglés",
+    "enunciado": "Reading Comprehension (B1): 'The government's decision to subsidize electric vehicles aims to mitigate carbon emissions.' What does 'mitigate' mean?",
+    "opciones": [
+      {
+        "texto": "To make something less severe or serious.",
+        "correcta": true
+      },
+      {
+        "texto": "To ignore a problem until it disappears.",
+        "correcta": false
+      },
+      {
+        "texto": "To increase the speed of a process.",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "area": "Lectura Crítica",
+    "enunciado": "Considere la frase: 'El hombre es un lobo para el hombre'. ¿Cuál es la visión de la naturaleza humana que propone Thomas Hobbes?",
+    "opciones": [
+      {
+        "texto": "Egoísta y conflictiva, requiriendo un poder central que imponga orden.",
+        "correcta": true
+      },
+      {
+        "texto": "Cooperativa y pacífica por naturaleza, corrompida por la sociedad.",
+        "correcta": false
+      },
+      {
+        "texto": "Indiferente, guiada únicamente por la razón y la lógica pura.",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "area": "Matemáticas",
+    "enunciado": "Razonamiento Cuantitativo: Una inversión de $1.000.000 crece un 5% anual de forma compuesta. ¿Cuál es la expresión que representa el valor final después de 'n' años?",
+    "opciones": [
+      {
+        "texto": "1.000.000 * (1 + 0.05 * n)",
+        "correcta": false
+      },
+      {
+        "texto": "1.000.000 * (1.05)^n",
+        "correcta": true
+      },
+      {
+        "texto": "1.000.000 / (1.05)^n",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "area": "Sociales y Ciudadanas",
+    "enunciado": "¿Qué principio constitucional permite que un juez inaplique una ley por ser contraria a la Constitución?",
+    "opciones": [
+      {
+        "texto": "Derecho de petición.",
+        "correcta": false
+      },
+      {
+        "texto": "Soberanía popular.",
+        "correcta": false
+      },
+      {
+        "texto": "Excepción de inconstitucionalidad.",
+        "correcta": true
+      }
+    ]
+  },
+  {
+    "area": "Ciencias Naturales",
+    "enunciado": "Física y CTS: El uso de fibra óptica revolucionó las comunicaciones. ¿Qué principio físico permite que la luz viaje largas distancias sin escapar del cable?",
+    "opciones": [
+      {
+        "texto": "Difracción de ondas electromagnéticas.",
+        "correcta": false
+      },
+      {
+        "texto": "Reflexión total interna.",
+        "correcta": true
+      },
+      {
+        "texto": "Efecto Doppler.",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "area": "Inglés",
+    "enunciado": "Context (B1): 'Environmentalists are concerned that the new legislation might be a double-edged sword.' A double-edged sword is:",
+    "opciones": [
+      {
+        "texto": "A very sharp tool used for cutting wood.",
+        "correcta": false
+      },
+      {
+        "texto": "Something that has both favorable and unfavorable consequences.",
+        "correcta": true
+      },
+      {
+        "texto": "An ancient weapon used in historical battles.",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "area": "Lectura Crítica",
+    "enunciado": "En un texto argumentativo, ¿cuál es la función de los contraargumentos?",
+    "opciones": [
+      {
+        "texto": "Confundir al lector sobre la posición del autor.",
+        "correcta": false
+      },
+      {
+        "texto": "Anticipar objeciones para fortalecer la tesis principal.",
+        "correcta": true
+      },
+      {
+        "texto": "Rellenar espacio cuando no hay suficientes pruebas.",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "area": "Matemáticas",
+    "enunciado": "Álgebra: Si el discriminante (b² - 4ac) de una ecuación cuadrática es negativo, ¿qué se puede afirmar de sus raíces?",
+    "opciones": [
+      {
+        "texto": "Tiene una raíz positiva y otra negativa.",
+        "correcta": false
+      },
+      {
+        "texto": "Tiene dos raíces reales idénticas.",
+        "correcta": false
+      },
+      {
+        "texto": "No tiene raíces reales (son complejas).",
+        "correcta": true
+      }
+    ]
+  },
+  {
+    "area": "Sociales y Ciudadanas",
+    "enunciado": "¿Cuál es la función primordial del Banco de la República en Colombia según la Constitución?",
+    "opciones": [
+      {
+        "texto": "Financiar las campañas políticas de los partidos mayoritarios.",
+        "correcta": false
+      },
+      {
+        "texto": "Construir obras públicas de infraestructura vial.",
+        "correcta": false
+      },
+      {
+        "texto": "Velar por el mantenimiento de la capacidad adquisitiva de la moneda.",
+        "correcta": true
+      }
+    ]
+  },
+  {
+    "area": "Ciencias Naturales",
+    "enunciado": "Química: En una reacción exotérmica, la energía de los productos es:",
+    "opciones": [
+      {
+        "texto": "Mayor que la energía de los reactivos.",
+        "correcta": false
+      },
+      {
+        "texto": "Igual a la energía de activación inicial.",
+        "correcta": false
+      },
+      {
+        "texto": "Menor que la energía de los reactivos.",
+        "correcta": true
+      }
+    ]
+  },
+  {
+    "area": "Inglés",
+    "enunciado": "Grammar (B1): 'The project ___ by the end of next month.'",
+    "opciones": [
+      {
+        "texto": "was finished",
+        "correcta": false
+      },
+      {
+        "texto": "will have been finished",
+        "correcta": true
+      },
+      {
+        "texto": "is finishing",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "area": "Lectura Crítica",
+    "enunciado": "La 'falacia ad hominem' consiste en:",
+    "opciones": [
+      {
+        "texto": "Atacar a la persona que argumenta en lugar del argumento mismo.",
+        "correcta": true
+      },
+      {
+        "texto": "Afirmar que algo es verdad porque un experto lo dice.",
+        "correcta": false
+      },
+      {
+        "texto": "Apelar a las emociones del público para ganar una discusión.",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "area": "Matemáticas",
+    "enunciado": "Geometría: ¿Cómo cambia el área de un círculo si su radio se triplica?",
+    "opciones": [
+      {
+        "texto": "Se multiplica por 6.",
+        "correcta": false
+      },
+      {
+        "texto": "Se triplica.",
+        "correcta": false
+      },
+      {
+        "texto": "Se multiplica por 9.",
+        "correcta": true
+      }
+    ]
+  },
+  {
+    "area": "Sociales y Ciudadanas",
+    "enunciado": "¿Qué es un Estado laico?",
+    "opciones": [
+      {
+        "texto": "Un Estado que adopta una religión oficial para todos sus ciudadanos.",
+        "correcta": false
+      },
+      {
+        "texto": "Un Estado independiente de cualquier organización o confesión religiosa.",
+        "correcta": true
+      },
+      {
+        "texto": "Un Estado que prohíbe todas las religiones en el territorio.",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "area": "Ciencias Naturales",
+    "enunciado": "Biología: ¿Cuál es el principal producto de la fase luminosa de la fotosíntesis que se usa en el ciclo de Calvin?",
+    "opciones": [
+      {
+        "texto": "Glucosa y oxígeno.",
+        "correcta": false
+      },
+      {
+        "texto": "ATP y NADPH.",
+        "correcta": true
+      },
+      {
+        "texto": "Dióxido de carbono y agua.",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "area": "Inglés",
+    "enunciado": "Reading (B1): 'Despite the heavy rain, the outdoor concert was a huge success.' What is the function of 'Despite'?",
+    "opciones": [
+      {
+        "texto": "To show contrast between two ideas.",
+        "correcta": true
+      },
+      {
+        "texto": "To list chronological actions.",
+        "correcta": false
+      },
+      {
+        "texto": "To explain the cause of an event.",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "area": "Lectura Crítica",
+    "enunciado": "Analice la frase de Nietzsche: 'Dios ha muerto'. En el contexto de su filosofía, ¿qué consecuencia principal tiene este evento para la moral humana?",
+    "opciones": [
+      {
+        "texto": "La necesidad de que el hombre cree sus propios valores (el Superhombre).",
+        "correcta": true
+      },
+      {
+        "texto": "La desaparición total de cualquier tipo de orden social.",
+        "correcta": false
+      },
+      {
+        "texto": "El regreso a las leyes religiosas más antiguas y estrictas.",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "area": "Matemáticas",
+    "enunciado": "Un proyectil se lanza con una velocidad 'v' y un ángulo de 45°. Si se desprecia la resistencia del aire, ¿cuál es la forma de la trayectoria descrita?",
+    "opciones": [
+      {
+        "texto": "Circular.",
+        "correcta": false
+      },
+      {
+        "texto": "Parabólica.",
+        "correcta": true
+      },
+      {
+        "texto": "Lineal.",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "area": "Sociales y Ciudadanas",
+    "enunciado": "Pensamiento Sistémico: La gentrificación de un barrio histórico mejora la seguridad y la infraestructura, pero desplaza a los residentes originales por el alza de costos. ¿Qué dimensión se está sacrificando?",
+    "opciones": [
+      {
+        "texto": "El crecimiento económico y la inversión extranjera.",
+        "correcta": false
+      },
+      {
+        "texto": "La eficiencia administrativa de la alcaldía local.",
+        "correcta": false
+      },
+      {
+        "texto": "La equidad social y la identidad cultural del territorio.",
+        "correcta": true
+      }
+    ]
+  },
+  {
+    "area": "Ciencias Naturales",
+    "enunciado": "Física y CTS: El telescopio James Webb utiliza sensores infrarrojos para ver a través del polvo cósmico. ¿Por qué se prefiere el infrarrojo sobre la luz visible en este caso?",
+    "opciones": [
+      {
+        "texto": "Porque las ondas infrarrojas tienen mayor longitud de onda y sufren menos dispersión por el polvo.",
+        "correcta": true
+      },
+      {
+        "texto": "Porque las estrellas antiguas solo emiten radiación en el espectro ultravioleta.",
+        "correcta": false
+      },
+      {
+        "texto": "Porque el infrarrojo viaja más rápido que la luz visible en el vacío.",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "area": "Inglés",
+    "enunciado": "Reading (B1): 'The rapid urbanization of the developing world presents both challenges and opportunities for sustainable growth.' According to the text, urbanization is:",
+    "opciones": [
+      {
+        "texto": "A complex process with positive and negative aspects.",
+        "correcta": true
+      },
+      {
+        "texto": "A purely negative phenomenon that must be stopped.",
+        "correcta": false
+      },
+      {
+        "texto": "A simple solution to all economic problems.",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "area": "Lectura Crítica",
+    "enunciado": "En un debate sobre el cambio climático, un ponente dice: 'No podemos confiar en los científicos, ellos también se equivocan'. ¿Qué tipo de falacia o debilidad argumentativa presenta?",
+    "opciones": [
+      {
+        "texto": "Uso correcto de la duda metódica para validar el conocimiento.",
+        "correcta": false
+      },
+      {
+        "texto": "Generalización apresurada y ataque a la fuente (ad hominem) sin rebatir los datos.",
+        "correcta": true
+      },
+      {
+        "texto": "Apelación a la autoridad científica para silenciar la opinión ciudadana.",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "area": "Matemáticas",
+    "enunciado": "Razonamiento Cuantitativo: El promedio de 5 números es 20. Si se añade un sexto número y el promedio sube a 22, ¿cuál es el valor de ese sexto número?",
+    "opciones": [
+      {
+        "texto": "40",
+        "correcta": false
+      },
+      {
+        "texto": "22",
+        "correcta": false
+      },
+      {
+        "texto": "32",
+        "correcta": true
+      }
+    ]
+  },
+  {
+    "area": "Sociales y Ciudadanas",
+    "enunciado": "Constitución: ¿Qué mecanismo permite reformar la Constitución Política de Colombia mediante el voto directo de los ciudadanos?",
+    "opciones": [
+      {
+        "texto": "Referéndum constitucional.",
+        "correcta": true
+      },
+      {
+        "texto": "Consulta popular local.",
+        "correcta": false
+      },
+      {
+        "texto": "Plebiscito nacional.",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "area": "Ciencias Naturales",
+    "enunciado": "Biología y CTS: El uso de plásticos de un solo uso ha generado microplásticos que entran en la cadena trófica. ¿Cuál es la principal preocupación biológica?",
+    "opciones": [
+      {
+        "texto": "La aceleración de la fotosíntesis en las algas marinas.",
+        "correcta": false
+      },
+      {
+        "texto": "La bioacumulación de sustancias tóxicas en los tejidos de organismos superiores.",
+        "correcta": true
+      },
+      {
+        "texto": "El aumento de la temperatura de los océanos por la presencia de plástico.",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "area": "Inglés",
+    "enunciado": "Grammar (B1): 'By the time the police arrived, the thieves ___ with the jewelry.'",
+    "opciones": [
+      {
+        "texto": "have escaped",
+        "correcta": false
+      },
+      {
+        "texto": "were escaping",
+        "correcta": false
+      },
+      {
+        "texto": "had escaped",
+        "correcta": true
+      }
+    ]
+  },
+  {
+    "area": "Lectura Crítica",
+    "enunciado": "Analice una caricatura donde un niño lee un libro digital mientras su abuelo lee uno de papel. El niño pregunta: '¿Dónde se ponen las pilas?'. El tema central es:",
+    "opciones": [
+      {
+        "texto": "La falta de interés de los jóvenes por la literatura clásica.",
+        "correcta": false
+      },
+      {
+        "texto": "La superioridad técnica de los dispositivos electrónicos.",
+        "correcta": false
+      },
+      {
+        "texto": "La brecha generacional y tecnológica en los hábitos de lectura.",
+        "correcta": true
+      }
+    ]
+  },
+  {
+    "area": "Matemáticas",
+    "enunciado": "Trigonometría: En un triángulo rectángulo, si el seno de un ángulo agudo es 3/5, ¿cuál es el valor del coseno de ese mismo ángulo?",
+    "opciones": [
+      {
+        "texto": "4/5",
+        "correcta": true
+      },
+      {
+        "texto": "3/4",
+        "correcta": false
+      },
+      {
+        "texto": "1",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "area": "Sociales y Ciudadanas",
+    "enunciado": "Historia: ¿Qué evento marcó el inicio del Frente Nacional en Colombia en 1958?",
+    "opciones": [
+      {
+        "texto": "La creación de la Constitución de 1886.",
+        "correcta": false
+      },
+      {
+        "texto": "El acuerdo de alternancia en el poder entre liberales y conservadores para finalizar la violencia.",
+        "correcta": true
+      },
+      {
+        "texto": "La firma de la paz con las guerrillas de las FARC.",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "area": "Ciencias Naturales",
+    "enunciado": "Química y Sociedad: La acidificación de los océanos es causada por la absorción de CO2 atmosférico. ¿Cómo afecta esto a los moluscos?",
+    "opciones": [
+      {
+        "texto": "Aumenta su tasa de reproducción debido al exceso de nutrientes.",
+        "correcta": false
+      },
+      {
+        "texto": "Dificulta la formación de sus conchas de carbonato de calcio.",
+        "correcta": true
+      },
+      {
+        "texto": "Mejora su capacidad de respiración bajo el agua.",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "area": "Inglés",
+    "enunciado": "Context (B1): 'Environmental regulations are getting stricter because the pollution levels have reached a tipping point.' What is a 'tipping point'?",
+    "opciones": [
+      {
+        "texto": "A financial reward for companies that reduce their emissions.",
+        "correcta": false
+      },
+      {
+        "texto": "The point at which a series of small changes becomes significant enough to cause a larger, more important change.",
+        "correcta": true
+      },
+      {
+        "texto": "A specific location where trash is collected.",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "area": "Lectura Crítica",
+    "enunciado": "En la frase 'La justicia es ciega', se utiliza una figura retórica conocida como:",
+    "opciones": [
+      {
+        "texto": "Hipérbole.",
+        "correcta": false
+      },
+      {
+        "texto": "Personificación o Prosopopeya.",
+        "correcta": true
+      },
+      {
+        "texto": "Onomatopeya.",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "area": "Matemáticas",
+    "enunciado": "Lógica: Si 'p' es verdadero y 'q' es falso, ¿cuál es el valor de verdad de la proposición (p Y q)?",
+    "opciones": [
+      {
+        "texto": "Falso.",
+        "correcta": true
+      },
+      {
+        "texto": "Verdadero.",
+        "correcta": false
+      },
+      {
+        "texto": "Indeterminado.",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "area": "Sociales y Ciudadanas",
+    "enunciado": "¿Qué rama del poder público en Colombia se encarga de legislar y crear las leyes?",
+    "opciones": [
+      {
+        "texto": "Rama Legislativa (Congreso).",
+        "correcta": true
+      },
+      {
+        "texto": "Rama Ejecutiva (Presidencia).",
+        "correcta": false
+      },
+      {
+        "texto": "Rama Judicial (Cortes).",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "area": "Ciencias Naturales",
+    "enunciado": "CTS: La obsolescencia programada es una estrategia industrial para que los productos duren menos. ¿Qué impacto ambiental directo genera?",
+    "opciones": [
+      {
+        "texto": "Aumento masivo de residuos electrónicos y sobreexplotación de recursos naturales.",
+        "correcta": true
+      },
+      {
+        "texto": "Mejora en la eficiencia energética de los dispositivos nuevos.",
+        "correcta": false
+      },
+      {
+        "texto": "Disminución de la huella de carbono de las fábricas.",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "area": "Inglés",
+    "enunciado": "Vocabulary (B1): Choose the synonym for 'Sturdy'.",
+    "opciones": [
+      {
+        "texto": "Fragile",
+        "correcta": false
+      },
+      {
+        "texto": "Strong",
+        "correcta": true
+      },
+      {
+        "texto": "Cheap",
+        "correcta": false
+      }
+    ]
+  }
+]

@@ -1,0 +1,9 @@
+[
+  {
+    "enunciado": "¿Qué mecanismo protege los derechos fundamentales?",
+    "opciones": [
+      {"texto": "Tutela", "correcta": true},
+      {"texto": "Plebiscito", "correcta": false}
+    ]
+  }
+]
